@@ -1,4 +1,4 @@
-This program is made to Gameshare Steam games with your friends while letting you both simultaneously play the games in the hosts libary. This program disconnects the steam client of the host from the internet so the shared players does'nt get kicked off the game.
+This program is made to Gameshare Steam games with your friends while letting you both simultaneously play the games in the hosts library. This program disconnects the steam client of the host from the internet so the shared players does'nt get kicked off the game.
 
 Step 1: run the game on the host's computer
 
