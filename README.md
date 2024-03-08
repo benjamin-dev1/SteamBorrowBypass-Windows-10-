@@ -7,3 +7,4 @@ step 2: run the steam_internet_blocker.exe
 step 3: now the people who are getting the game shared can launch and enjoy the games
 
 *ONLY HOST NEEDS TO BE ON WINDOWS 10*
+(might not work on some games)
