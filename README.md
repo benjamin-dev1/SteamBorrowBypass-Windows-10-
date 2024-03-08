@@ -1,5 +1,4 @@
-Step 1: Ensure Python is Installed (possibly)
-Make sure you have Python installed on your computer.
-
-Step 2: run the program
-After running the exe, a window should appear with a button labeled "OFF". This button represents the toggle button for enabling or disabling the firewall rule. Click the button to toggle the rule on or off. The button text will change accordingly
+This program is made to Gameshare Steam games with your friends while letting you both simultaneously play the games in the hosts libary. This program disconnects the steam client of the host from the internet so the shared players does'nt get kicked off the game.
+Step 1: run the game on the host's computer
+step 2: run the SteamInternetBlocker.exe
+step 3: now the people who are getting the game shared can launch and enjoy the games
